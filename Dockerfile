@@ -10,4 +10,3 @@ COPY . .
 
 CMD ["bash", "start.sh"]
 
-RUN pip install tzlocal
