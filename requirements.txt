@@ -55,4 +55,4 @@ pyrogram==2.0.77
 tgcrypto
 tzlocal
 pytz
-apscheduler
+apscheduler>=3.9.0
