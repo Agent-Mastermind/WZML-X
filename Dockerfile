@@ -9,3 +9,5 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 COPY . .
 
 CMD ["bash", "start.sh"]
+
+RUN pip install tzlocal
